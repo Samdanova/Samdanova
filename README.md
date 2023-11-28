@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Lena 👋</h1>
-<p align="center"> Welcome to my page! I'm a Frontend Developer from Israel💫 </p>
+<p align="center"> Welcome to my page! I'm a Frontend Developer💫 </p>
 
   
 
